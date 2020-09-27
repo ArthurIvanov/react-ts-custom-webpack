@@ -1,8 +1,8 @@
 {
-    "name": "react-ts-",
+    "name": "react-ts-webpack",
     "version": "1.0.0",
     "description": "React TS starter webpack bundle",
-    "main": "index.js",
+    "main": "index.tsx",
     "scripts": {
         "start": "webpack-dev-server --open",
         "devbuild": "webpack --mode development",
